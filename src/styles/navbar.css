@@ -1,1 +1,18 @@
+.index-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 2%;
+}
 
+.logo_viliri {
+    width: 5%;
+}
+
+.index-right {
+    display: flex;
+}
+
+.right_one {
+    margin-right: 20px;
+}

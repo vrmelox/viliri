@@ -14,8 +14,8 @@ function Navbar({menu}) {
                 alt="Le logo de la librairie Viliri"
                 className='logo_viliri'
             />
-            <div className='hero-right'>
-                <p>
+            <div className='index-right'>
+                <p className='right_one'>
                     <FontAwesomeIcon icon={faHeart} className='icon' />
                     Whishlist
                 </p>
