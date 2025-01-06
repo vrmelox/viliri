@@ -10,16 +10,17 @@
 .books-list {
     display:flex;
     overflow: hidden;
-    margin-bottom: 4%;
+    margin-bottom: 3%;
+    width: 100%;
 }
 
 .book {
-    padding-right: 25px;
+    padding-right: 20px;
 }
 
 .book img {
     border-radius: 5px;
-    box-shadow: 0 3px 30px black;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
     margin-bottom: 4%;
 }
 

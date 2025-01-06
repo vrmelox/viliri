@@ -131,7 +131,7 @@ export const libraryDatas = [
     {
         genre: 'Policier',
         auteur: 'Edgar Allan Poe',
-        title: 'Double assassinat dans la rue morgue',
+        title: 'Double assassinat dans la rue',
         image: '../public/double_assassinat.jpg',
         status: true
     },
