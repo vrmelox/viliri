@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar"
 import HeroSearch from "./components/Hero"
-import logo from './assets/logo/logo.png'
+import logo from './assets/logo/5.png'
 import {libraryDatas} from "../src/data/libraryDatas"
 import './styles/hero.css'
 

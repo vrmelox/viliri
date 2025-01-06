@@ -1,29 +1,31 @@
 .index-hero {
-    margin-top: 8%;
+    margin-top: 7.5%;
     text-align: center;
 }
 
 .index-hero h1 {
     font-size: 3em;
     font-weight: 700;
-    color: #0F1E64;
+    color: #00B1B0;
 }
 
 .index-hero p {
     font-family: "Montserrat", serif;
     font-size: 1.3em;
-    color: aliceblue;
+    color: #EFE7BC;
 }
 
 .cover-img {
-    background-image: url("../assets/img/cinematic_read.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+    url("../assets/img/2150104566.jpg");
     height: 80vh;
     background-position: center;
     background-size: cover;
+    
 }
 
 .book-search {
-    margin-top: 5%;
+    margin-top: 3%;
 }
 .book-search select{
     height: 50px;
