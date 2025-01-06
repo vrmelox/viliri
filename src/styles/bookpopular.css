@@ -19,6 +19,8 @@
 
 .book img {
     border-radius: 5px;
+    box-shadow: 0 3px 30px black;
+    margin-bottom: 4%;
 }
 
 .icon-right {
@@ -30,6 +32,7 @@
 
 .icon-left, .icon-right {
     background-color: #F4C6D4;
-    padding: 15px;
+    padding: 15px 16px;
     border-radius: 3px;
+    cursor: pointer;
 }
