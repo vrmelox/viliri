@@ -6,7 +6,7 @@ import '../styles/bookpopular.css'
 function Bookpopular ({books}) {
     return (
         <section className="livres-populaires">
-            <FontAwesomeIcon icon={faChevronLeft} />
+            <FontAwesomeIcon icon={faChevronLeft} className='icon-left'/>
             <div className="books-list">
                 {books.map((book, index) => (
                     <div className="book" key={index}>
@@ -21,7 +21,7 @@ function Bookpopular ({books}) {
                     </div>
                     ))}
             </div>
-            <FontAwesomeIcon icon={faChevronRight} />
+            <FontAwesomeIcon icon={faChevronRight} className='icon-right'/>
         </section>
     )
 }
