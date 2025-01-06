@@ -1,0 +1,44 @@
+.index-hero {
+    margin-top: 8%;
+    text-align: center;
+}
+
+.index-hero h1 {
+    font-size: 3em;
+    font-weight: 700;
+    color: #0F1E64;
+}
+
+.index-hero p {
+    font-family: "Montserrat", serif;
+    font-size: 1.3em;
+    color: aliceblue;
+}
+
+.cover-img {
+    background-image: url("../assets/img/cinematic_read.jpg");
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.book-search {
+    margin-top: 5%;
+}
+.book-search select{
+    height: 50px;
+    font-size: 18px;
+    padding: 10px;
+    margin-right: 10px;
+    border: none;
+    outline: none;
+}
+
+.book-search button {
+    height: 50px;
+    width: 70px;
+    border: none;
+    border-radius: 5px;
+    background-color: #F4C6D4;
+}
+

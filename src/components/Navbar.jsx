@@ -16,11 +16,11 @@ function Navbar({menu}) {
             />
             <div className='index-right'>
                 <p className='right_one'>
-                    <FontAwesomeIcon icon={faHeart} className='icon' />
+                    <FontAwesomeIcon icon={faHeart} className='icon' />&nbsp;
                     Whishlist
                 </p>
                 <p>
-                    <FontAwesomeIcon icon={faUser} className='icon' />
+                    <FontAwesomeIcon icon={faUser} className='icon' />&nbsp;
                     Sign in
                 </p>
             </div>
